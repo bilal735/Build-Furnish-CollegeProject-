@@ -1,0 +1,181 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;700&family=Satisfy&display=swap");
+.body {
+  margin:0 ;
+  padding: 0;
+}
+.bg-img {
+  background-image: url("https://thumbs.dreamstime.com/b/house-under-construction-blueprints-building-project-53360048.jpg");
+  background-size: 225vh 40vw;
+  height:70vh;
+  background-repeat: no-repeat;
+}
+.navbar-bg{
+  background-color: rgba(190, 203, 226, 0.322);
+}
+.loginbg {
+  background-image: url("https://wallpaperaccess.com/full/905606.jpg");
+  background-size: 220vh;
+}
+.navbar-heading {
+  color: #fff;
+}
+.heading {
+  color: rgb(19, 18, 16);
+}
+.heading-nav {
+  color: rgb(255, 255, 254);
+  font-size: large;
+}
+.background-im {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK2SXIs36Si6BYk8tKYlmCk_nVMtwtUjZBvRbxpoqcIFL8XV_aGse4ARWonqIKXRqfw9c&usqp=CAU");
+  background-size: cover;
+}
+.Services-heading {
+  color: #fff;
+  text-align: center;
+}
+.sub-heading {
+  color: #fff;
+  text-align: center;
+  margin-bottom: 2;
+}
+.carousel-item {
+  height: 65vh;
+  min-height: 65vh;
+  background-size: auto;
+}
+.white-section {
+  display: flex;
+  justify-content: center;
+}
+.white-features{
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+}
+.wide {
+  width: 80px;
+}
+#features {
+  display: flex;
+  justify-content: flex-start;
+}
+.feature-title {
+  font-size: 2rem;
+}
+.feature-box {
+  padding: 5.5%;
+}
+.profile-icon {
+  width: 30px;
+  margin-top: 8px;
+}
+.black-section {
+  color: #fff;
+}
+.footer {
+  text-align: center;
+  color:#fff;
+  background-color: rgba(190, 203, 226, 0.322);
+}
+#contact{
+  padding: 0;
+  background-color: rgba(190, 203, 226, 0.322);
+  color:#fff;
+
+}
+.container-fluid {
+  padding: 1% 4%;
+}
+.container{
+  position: relative;
+
+}
+#footer{
+  bottom: 0;
+  width: 100%;
+  left: 0;
+  right: 0;
+}
+.services-section {
+  text-align: center;
+  color: #fff;
+}
+.card {
+  display: flex;
+  justify-content: center;
+}
+.card-text {
+  color: #111111;
+}
+.card-contact{
+  color: #fff;
+}
+.black-height {
+  min-height: 70vh;
+  padding-left: 3px;
+  padding-right: 15px;
+}
+.card-title {
+  color: #111111;
+  text-align: center;
+}
+.card-text-image {
+  display: flex;
+  justify-content: center;
+  color: #fff;
+}
+.h2-heading {
+  text-align: center;
+  color: #fff;
+}
+.about-p{
+  text-align: center;
+  font-size: larger;
+}
+.text-p{
+  font-size: large;
+}
+.bg-back{
+  background-image: url("https://t4.ftcdn.net/jpg/00/79/64/97/240_F_79649758_qde99Dbzm251F3PqbxL1tSHFi2slzkRf.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+}
+.li-different{
+  font-size: large;
+}
+.cover{
+  display: flex;
+  justify-content: center;
+}
+.landing-page{
+  background-image: url("https://www.hdwallpapers.in/download/tunnel_arches_building_dark_background_hd_dark_background-HD.jpg");
+  background-repeat: no-repeat;
+  background-size:110rem;
+}
+.gallery{
+  padding-left: 30%;
+  padding-right: 30%;
+}
+#payment{
+  padding-left: 4%;
+  height: 400px;
+  width: 300px;
+}
+.payment_form{
+  padding-left: 2%;
+}
+.appointment{
+  min-height: 100%;
+}
+.footerHome{
+    position: absolute;
+}
+.successfull{
+    margin-top: 300px;
+}
+.searchb{
+    margin-left: 40px;
+}
